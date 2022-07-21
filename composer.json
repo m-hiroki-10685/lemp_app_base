@@ -1,0 +1,16 @@
+{
+    "name": "root/scahm",
+    "autoload": {
+        "psr-4": {
+            "Classes\\":"classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hiroki M"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
